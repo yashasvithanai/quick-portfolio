@@ -1,29 +1,32 @@
-## Portfolio
+## Analytics Portfolio
 
 ---
 
-### Category Name 1 
+### Projects
 
-[Project 1 Title](/sample_page)
+[RFM Values Using CDNOW Purchase Data in R](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Facebook Advertisement Targeting](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Credit Card Approval (Predictive Modeling) Using R](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Data Driven Pricing Decision in R](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### Category Name 2
+---
+### Projects Listed
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [RFM Values Using CDNOW Purchase Data in R](http://example.com/)
+- [Facebook Advertisement Targeting](http://example.com/)
+- [Credit Card Approval (Predictive Modeling) Using R](http://example.com/)
+- [Data Driven Pricing Decision in R](http://example.com/)
+- [Employees Expenses Database](http://example.com/)
 
 ---
 
